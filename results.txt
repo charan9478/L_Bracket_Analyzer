@@ -1,0 +1,35 @@
+=== L-BRACKET ANALYSIS RESULTS ===
+
+----- 250 N -----
+Max Stress             : 99.2 MPa
+Mean Stress            : 23.113444962776086 MPa
+Max Total Deformation  : 0.00034451 meters
+Mean Total Deformation : 1.1866048337140066e-05 meters
+
+----- 500 N -----
+Max Stress             : 198.0 MPa
+Mean Stress            : 46.227541371549954 MPa
+Max Total Deformation  : 0.000689 meters
+Mean Total Deformation : 2.373270871949377e-05 meters
+
+----- 750 N -----
+Max Stress             : 298.0 MPa
+Mean Stress            : 69.34161951108048 MPa
+Max Total Deformation  : 0.00103 meters
+Mean Total Deformation : 3.5594913164848464e-05 meters
+
+----- 1500 N -----
+Max Stress             : 298.0 MPa
+Mean Stress            : 69.34161951108048 MPa
+Max Total Deformation  : 0.0022914 meters
+Mean Total Deformation : 7.969225236910193e-05 meters
+
+----- 2000 N -----
+Max Stress             : 447.0 MPa
+Mean Stress            : 160.34161951108048 MPa
+Max Total Deformation  : 0.011643 meters
+Mean Total Deformation : 0.0004047794868419405 meters
+
+Material is going to enter plastic region after 1500N force application
+Material is going to enter the ultimate strength after 2000N force application
+Material is goint to enter the breaking region after 2500 force application
